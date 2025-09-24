@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  
+extensions:
+  - mcanouil/quarto-iconify@latest
+
+website:
+  title: "Shanshan Bi"
+  description: "Shanshan Bi's personal website"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - text: CV
+        href: Bi_CV.pdf
+  page-footer: "&copy; 2025 Shanshan Bi"
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" rel="stylesheet">
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true
+
+execute:
+  freeze: auto

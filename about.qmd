@@ -1,0 +1,20 @@
+---
+title: "About"
+format:
+  html:
+    toc: false
+---
+
+I am a postdoctoral fellow at the [Centre for Child and Family Science](https://eduhkccfs.eduhk.hk/).
+I mainly work on writing academic papers and reports based on the [C-for-Chinese@JC Project](https://eduhkccfs.eduhk.hk/projects_plan/flagship_projects#h.vj4bdabhrrcn), as well as other research projects related to the health and well-being of kindergarten-aged children.
+Meanwhile, I assist with coordinating survey data collection for a project on voluntary childlessness, in which over 1,000 women living in Hong Kong participated, and contributes to reporting based on these data.
+
+## Education
+
+{{< iconify fa6-solid graduation-cap >}} **Utrecht University** \| The Netherlands
+
+Ph.D. in Child and Adolescent Studies \| 2019 -- 2024
+
+{{< iconify fa6-solid graduation-cap >}} **The Education University of Hong Kong**
+
+M.A. in Child and Family Education \| 2017 -- 2018

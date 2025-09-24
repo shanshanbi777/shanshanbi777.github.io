@@ -1,0 +1,16 @@
+---
+title: "Shanshan Bi"
+subtitle: "Postdoctoral Fellow at the Education University of Hong Kong"
+about:
+  template: jolla
+  image: image/profile.jpg
+  links:
+    - text: "{{< iconify fa6-solid envelope >}}"
+      href: mailto:sbi@eduhk.hk
+    - text: "{{< iconify fa6-brands google-scholar >}}"
+      href: https://scholar.google.com/citations?user=yZiJnJYAAAAJ&hl=en
+    - text: "{{< iconify fa6-brands orcid >}}"
+      href: https://orcid.org/0000-0001-7710-1078
+    - icon: linkedin
+      href: https://www.linkedin.com/in/shanshan-bi-15722b264
+---
