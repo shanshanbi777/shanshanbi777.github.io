@@ -6,7 +6,7 @@ format:
 ---
 
 I am a postdoctoral fellow at the [Centre for Child and Family Science](https://eduhkccfs.eduhk.hk/).
-I mainly work on writing academic papers and reports based on the [C-for-Chinese@JC Project](https://eduhkccfs.eduhk.hk/projects_plan/flagship_projects#h.vj4bdabhrrcn), as well as other research projects related to the health and well-being of kindergarten-aged children.
+I mainly work on writing academic papers and reports based on the [C-for-Chinese@JC Project](https://eduhkccfs.eduhk.hk/projects_plan/flagship_projects#h.vj4bdabhrrcn), as well as other research projects related to the health and well-being of school-aged children.
 Meanwhile, I assist with coordinating survey data collection for a project on voluntary childlessness, in which over 1,000 women living in Hong Kong participated, and contributes to reporting based on these data.
 
 ## Education
